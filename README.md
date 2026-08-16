@@ -64,37 +64,26 @@
 
 ---
 
-# 📂 Repository Structure
+# 🎯 About This Repository
 
-```text
-100-Days-of-Python/
-│
-├── Level_1_Beginner/                # Q1–Q26: numbers, strings, lists, dicts
-├── Level_2_Intermediate/            # Q27–Q60: fibonacci, hashing, two-pointer, sliding window
-├── Level_3_Advanced/                # Q61–Q82: linked lists, stacks, graphs, backtracking
-├── Level_4_Extension/
-│   ├── Dynamic_Programming/         # Q83–Q91: knapsack, coin change, LCS, grid paths
-│   ├── Trees/                       # Q92–Q99: height, BFS, LCA, diameter, BST
-│   ├── Two_Pointer_Matrix/          # Q100–Q107: sliding window, spiral, rotate, search
-│   └── Pythonic_Idiomatic/          # Q108–Q112: comprehensions, zip, enumerate
-├── Level_5_Data_Handling/           # Q113–Q150: Pandas, NumPy, Matplotlib, Seaborn (AI/ML roles)
-├── Solutions_and_Logic.md           # approach notes for every question
-└── README.md
-```
-
-*(older structure will be added later — not now)*
-
----
-
-# 🗺️ Question Bank at a Glance
-
-| Level | Range | Focus |
-|---|---|---|
-| 1 — Beginner | Q1–Q26 | Fundamentals: even/odd, palindromes, primes, factorial, lists & dicts |
-| 2 — Intermediate | Q27–Q60 | Fibonacci, GCD/LCM, frequency counting, two pointers, binary search |
-| 3 — Advanced | Q61–Q82 | Linked lists, stacks/queues, LRU cache, trees, graphs, backtracking |
-| 4 — Extension | Q83–Q112 | Dynamic programming, binary trees, matrix/two-pointer, Pythonic style |
-| 5 — Data Handling | Q113–Q150 | Pandas, NumPy, Matplotlib/Seaborn for AI/ML interview rounds |
+<div align="center">
+<table>
+<tr>
+<td align="center" width="240">
+<b>🧩 Approach</b><br/><br/>
+<sub>Every problem is attempted solo first — logic and reasoning noted before checking any reference approach.</sub>
+</td>
+<td align="center" width="240">
+<b>📈 Progression</b><br/><br/>
+<sub>Structured as a difficulty curve — from fundamentals up to DSA, dynamic programming, and applied data-science coding.</sub>
+</td>
+<td align="center" width="240">
+<b>🎓 Interview Focus</b><br/><br/>
+<sub>Built specifically for AI/ML and Data Science interview prep — logic-building plus real Pandas/NumPy/Visualization workflows.</sub>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
