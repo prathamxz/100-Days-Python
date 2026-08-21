@@ -5,8 +5,8 @@ Count the number of vowels in a given string.
 -------------
 """
 
-string = input("please enter a string: ")
-string = str.lower()
+string = input("Please enter a string: ").lower()
+
 str_count =0
 
 for i in string:
