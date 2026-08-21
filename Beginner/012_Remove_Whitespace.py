@@ -7,6 +7,6 @@ Remove all whitespace from a string.
 
 string = input("Enter a string: ")
 
-for i in string:
-    string = string.replace(" ","")
+string = string.replace(" ", "")
+
 print(string)
