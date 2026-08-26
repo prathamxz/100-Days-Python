@@ -5,13 +5,6 @@ Find the sum of digits of a number using recursion.
 -------------
 """
 
-"""
-Question 016
--------------
-Find the sum of digits of a number using recursion.
--------------
-"""
-
 def sum_digits(num):
     # Base case
     if num == 0:
